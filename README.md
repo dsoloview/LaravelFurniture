@@ -16,5 +16,5 @@
 3. `Composer install` для установки необходимых библиотек
 4. `php artisan migrate:fresh --seed` для создания таблиц в БД и наполнения тестовыми данными
 5. `php artisan key:generate` для генерации уникального ключа
-6. `npm install` + 'npm run dev' для разрешения фронт зависимостей
+6. `npm install` + `npm run dev` для разрешения фронт зависимостей
 7. Сайт готов к работе!
